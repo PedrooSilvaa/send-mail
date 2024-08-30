@@ -1,4 +1,4 @@
-package tech.silva.mailSender;
+package tech.silva.mailSender.service;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.mail.SimpleMailMessage;
